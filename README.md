@@ -1,3 +1,6 @@
-# fibonacci
+# Various fibonacci implementations in Swift
 
-A description of this package.
+To run the tests with a little benchmarking, do:
+```bash
+swift test
+```
